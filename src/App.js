@@ -8,8 +8,8 @@ import TextRepeaterButton from './components/TextRepeaterButton';
 function App() {
   return (
     <div className={"App"}>
+      <h1>Fancy Buttons!</h1>
       <section>
-        <h1>Fancy Buttons!</h1>
         <AngryButton />
         <CounterButton />
         <LightSwitchButton />
